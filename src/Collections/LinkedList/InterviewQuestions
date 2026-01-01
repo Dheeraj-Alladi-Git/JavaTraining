@@ -1,0 +1,15 @@
+1.  Difference between ArrayList and Linked List?
+->  ArrayList
+    - Write cost is heavy
+    - adding/deleting elements from middle/specific index is
+    - Memory is less used
+    - Accessing a element is fast
+ => USE ArrayList when you have heavy read applications like just need to display the values
+    like displaying in the amazon.
+
+->  LinkedList
+    - Write cost is less
+    - Adding/deleting data elements from anywhere is easy and simple
+    - Memory is more
+    - Accessing a element is Heavy
+=> USE LinkedList when there is heavy insertions or deletions happening.
